@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlqOWY2OTFxdW5wbW42emp6emVpMmdoZXBmMG9lOWZiYW04c3U4OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif"  />
+</div>
 <div align="center">
 
 # 💫 Hi, I'm Imesh Bandara </div>
