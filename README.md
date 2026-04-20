@@ -1,10 +1,13 @@
+
 <div align="center">
 
-# 💫 Hi, I'm Imesh Bandara
+# 💫 Hi, I'm Imesh Bandara </div>
 
-<h3 style="color:#00BFFF;">Software Engineering Undergraduate at University of Kelaniya</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;University+of+Kelaniya" />
+</p>
 
-</div>
+
   
 I’m currently working on VisitCeylonX (A tourism platform built with the MERN stack).<br>👯 I’m looking to collaborate on Open-source Spring Boot or React projects, especially those involving AI integration.<br>💬 Ask me about MERN Stack, Spring Boot, Network Topology (VLSM), and Human-Computer Interaction.<br>📫 How to reach me imeshnbandara826@gmail.com<br>⚡ Fun fact I once built a PHP e-commerce site called Scoop Heaven—ask me why it’s the sweetest code I’ve written.
 
