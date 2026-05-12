@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Building+the+future+one+commit+at+a+time;Engineering+smart+solutions+for+real-world+problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Building+the+future+one+commit+at+a+time;Engineering+smart+solutions+for+real-world+problems;Transforming+ideas+into+impactful+software" />
 </p>
 
 ---
